@@ -1,7 +1,7 @@
 # repo
 ART SERVER 의 Maven repository 사용설명서
 
-> **사용전 인증 작업이 필요합니다**\
+> **사용 전 인증 작업이 필요합니다**\
 > [깃허브 공식 문서](https://docs.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-apache-maven-for-use-with-github-packages)를 참고해주세요.
 
 ## 리포지토리 추가
