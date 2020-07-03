@@ -28,7 +28,7 @@ ART SERVER 의 Maven repository 사용설명서
 ```
 
 ## [DataStorage](https://github.com/artserver/Datastorage)
-플러그인의 설정 파일을 쉽게 관리해줍니다.
+플레이어 데이터와 플러그인 데이터를 빠르게 불러오고 저장할 수 있습니다.
 ```
 <dependencies>
     <dependency>
